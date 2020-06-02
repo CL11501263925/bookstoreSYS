@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="书店管理系统.Booksadd" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAEAAAAACAQABQBAECQQACCAADIAAABAEAgRAAAAAg=</HashCode>
+      <FileName>Booksadd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.ExportDGVToExcel" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIACAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExportDGVToExcel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.LoginForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQQKAKACgJEIAACAAACDAAEAAIAQAGQIQAEAIAA=</HashCode>
+      <FileName>LoginMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.MainForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A0AIDECDAKAOAA4EDCCdkiYaMD0LQihQAOWsQJEJoEI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.name" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>name.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.Program" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.SaledetailsForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAACAACBACBiHAgACCIAABAAACRABAAQQQApA=</HashCode>
+      <FileName>SaledetailsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.SalemanAdd" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAKADAAgBAAAACAAAACAAB4QAAAAHAAyAAAAAA=</HashCode>
+      <FileName>SalemanAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.SalerForm" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kkAhBCwQCCIAQBQAQAC8AJD6A0gAQEEgAABAIQpgABE=</HashCode>
+      <FileName>SalerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.StaffForm" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiGAoAIACABoBDABKDCAIBSAAhFQACKAIIAAAAAAhA=</HashCode>
+      <FileName>StaffForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.TypeForm" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAgwQCAAABRAABCCAEACAAAAABAwQAAAAAAAApA=</HashCode>
+      <FileName>TypeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.VIPadd" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAAAECAAgBAAAACQQACCAACIAAAAAkAASAAAAQA=</HashCode>
+      <FileName>VIPadd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.VIPForm" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACGQIEAECABgBTABADCAAACAABAAACKAAAAAAAAA5I=</HashCode>
+      <FileName>VIPForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.WarehouseForm" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wCEECAACCAAABRRBJHCAAICQgBBFQAFgjAAIQAEAhg=</HashCode>
+      <FileName>WarehouseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAACAAAAAQBECAAGSBAAAIgACAAASAYAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="书店管理系统.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.BooksDAL" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.DBHelper" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.SaleDal" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.SalemanDAL" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.SalesDailsDal" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.TextBox" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.TypeDAL" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.VipDal" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,84 @@
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\登录.exe.config
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\登录.exe
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\登录.pdb
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\BLL.dll
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\DAL.dll
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\model.dll
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\BLL.pdb
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\DAL.pdb
+D:\书店管理系统5\书店管理系统\登录\bin\Debug\model.pdb
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.csprojResolveAssemblyReference.cache
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.Booksadd.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.LoginForm.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.MainForm.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.SaledetailsForm.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.SalemanAdd.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.Properties.Resources.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.SalerForm.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.StaffForm.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.TypeForm.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.VIPForm.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.VIPadd.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.WarehouseForm.resources
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\书店管理系统.csproj.GenerateResource.Cache
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\登录.exe
+D:\书店管理系统5\书店管理系统\登录\obj\Debug\登录.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\登录.exe.config
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\登录.exe
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\登录.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\BLL.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\DAL.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\model.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\BLL.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\DAL.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\bin\Debug\model.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.csprojAssemblyReference.cache
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.Booksadd.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.LoginForm.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.MainForm.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.SaledetailsForm.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.SalemanAdd.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.Properties.Resources.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.SalerForm.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.StaffForm.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.TypeForm.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.VIPForm.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.VIPadd.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.WarehouseForm.resources
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.csproj.GenerateResource.cache
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.csproj.CopyComplete
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\登录.exe
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\登录\obj\Debug\登录.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\登录.exe.config
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\登录.exe
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\登录.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\BLL.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\DAL.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\model.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\BLL.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\DAL.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\model.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.csprojAssemblyReference.cache
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.Booksadd.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.LoginForm.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.MainForm.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.SaledetailsForm.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.SalemanAdd.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.Properties.Resources.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.SalerForm.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.StaffForm.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.TypeForm.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.VIPForm.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.VIPadd.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.WarehouseForm.resources
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.csproj.GenerateResource.cache
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\书店管理系统.csproj.CopyComplete
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\登录.exe
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\obj\Debug\登录.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\office.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\stdole.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\登录\bin\Debug\office.xml

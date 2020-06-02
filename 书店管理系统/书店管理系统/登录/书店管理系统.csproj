@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07437462-3F49-4980-855E-BD323AFB8F2B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>书店管理系统</RootNamespace>
+    <AssemblyName>登录</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>..\..\..\CSkin+16.1.14.2\CSkin 16.1.14.2\CSkin 4.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2">
+      <HintPath>..\第三方换肤组件-IrisSkin2\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ExportDGVToExcel.cs" />
+    <Compile Include="Booksadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Booksadd.Designer.cs">
+      <DependentUpon>Booksadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginMain.Designer.cs">
+      <DependentUpon>LoginMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="name.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SaledetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaledetailsForm.Designer.cs">
+      <DependentUpon>SaledetailsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalemanAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalemanAdd.Designer.cs">
+      <DependentUpon>SalemanAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SalerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalerForm.designer.cs">
+      <DependentUpon>SalerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForm.Designer.cs">
+      <DependentUpon>StaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeForm.Designer.cs">
+      <DependentUpon>TypeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIPForm.Designer.cs">
+      <DependentUpon>VIPForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIPadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIPadd.Designer.cs">
+      <DependentUpon>VIPadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WarehouseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WarehouseForm.Designer.cs">
+      <DependentUpon>WarehouseForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Booksadd.resx">
+      <DependentUpon>Booksadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginMain.resx">
+      <DependentUpon>LoginMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaledetailsForm.resx">
+      <DependentUpon>SaledetailsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalemanAdd.resx">
+      <DependentUpon>SalemanAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalerForm.resx">
+      <DependentUpon>SalerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForm.resx">
+      <DependentUpon>StaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeForm.resx">
+      <DependentUpon>TypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIPForm.resx">
+      <DependentUpon>VIPForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIPadd.resx">
+      <DependentUpon>VIPadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WarehouseForm.resx">
+      <DependentUpon>WarehouseForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\背景图.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\客户管理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\换班操作.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\库存状况.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\前台零售.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\退出系统.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\营业报表.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\背景图2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\会员管理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\商品进货.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\仓库设置.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\员工设置.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{e3cc03e5-edcb-48df-9870-04d7f07b11ad}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{9ef8d806-2d2a-4ef5-b2f8-d4f01c4e6307}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\model\model.csproj">
+      <Project>{a1a07fbb-7577-4d79-9a24-5ceb996877ac}</Project>
+      <Name>model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\bcg.png" />
+    <Content Include="Resources\gachihen.ico" />
+    <Content Include="Resources\书本类型.png" />
+    <Content Include="Resources\库存管理.png" />
+    <None Include="Resources\背景4.jpg" />
+    <None Include="Resources\背景图3.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

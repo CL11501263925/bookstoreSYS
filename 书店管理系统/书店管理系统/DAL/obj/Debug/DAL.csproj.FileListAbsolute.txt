@@ -1,0 +1,23 @@
+D:\书店管理系统5\书店管理系统\DAL\bin\Debug\DAL.dll
+D:\书店管理系统5\书店管理系统\DAL\bin\Debug\DAL.pdb
+D:\书店管理系统5\书店管理系统\DAL\bin\Debug\model.dll
+D:\书店管理系统5\书店管理系统\DAL\bin\Debug\model.pdb
+D:\书店管理系统5\书店管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\书店管理系统5\书店管理系统\DAL\obj\Debug\DAL.dll
+D:\书店管理系统5\书店管理系统\DAL\obj\Debug\DAL.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\DAL\bin\Debug\DAL.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\DAL\bin\Debug\DAL.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\DAL\bin\Debug\model.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\DAL\bin\Debug\model.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\DAL\obj\Debug\DAL.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\DAL\obj\Debug\DAL.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\DAL\bin\Debug\DAL.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\DAL\bin\Debug\DAL.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\DAL\bin\Debug\model.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\DAL\bin\Debug\model.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\DAL\obj\Debug\DAL.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\DAL\obj\Debug\DAL.pdb

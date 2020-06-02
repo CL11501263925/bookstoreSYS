@@ -1,0 +1,29 @@
+D:\书店管理系统5\书店管理系统\BLL\bin\Debug\BLL.dll
+D:\书店管理系统5\书店管理系统\BLL\bin\Debug\BLL.pdb
+D:\书店管理系统5\书店管理系统\BLL\bin\Debug\DAL.dll
+D:\书店管理系统5\书店管理系统\BLL\bin\Debug\model.dll
+D:\书店管理系统5\书店管理系统\BLL\bin\Debug\DAL.pdb
+D:\书店管理系统5\书店管理系统\BLL\bin\Debug\model.pdb
+D:\书店管理系统5\书店管理系统\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\书店管理系统5\书店管理系统\BLL\obj\Debug\BLL.dll
+D:\书店管理系统5\书店管理系统\BLL\obj\Debug\BLL.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\bin\Debug\BLL.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\bin\Debug\BLL.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\bin\Debug\DAL.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\bin\Debug\model.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\bin\Debug\DAL.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\bin\Debug\model.pdb
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\obj\Debug\BLL.dll
+F:\StudyWork\C#学习\16136206 胡宇-书店管理系统\书店管理系统\BLL\obj\Debug\BLL.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\bin\Debug\BLL.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\bin\Debug\BLL.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\bin\Debug\DAL.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\bin\Debug\model.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\bin\Debug\DAL.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\bin\Debug\model.pdb
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\obj\Debug\BLL.dll
+F:\StudyWork\C#学习\2017010638 张可可-书店管理系统\书店管理系统\BLL\obj\Debug\BLL.pdb
